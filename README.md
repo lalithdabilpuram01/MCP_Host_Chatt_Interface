@@ -6,6 +6,16 @@ This project is designed to work across domains. A company can connect internal 
 
 For the full architecture guide, see [PROJECT_DOCUMENTATION.md](PROJECT_DOCUMENTATION.md).
 
+## Built With System Design And Codex
+
+This project was built as a rapid prototype using a system design prompt and Codex as an AI coding agent. The goal was not just to generate code quickly, but to turn a clear architecture idea into a working full-stack application with backend APIs, frontend UI, runtime MCP configuration, tool-calling approval flow, logging, documentation, and GitHub-ready project structure.
+
+AI coding agents can dramatically speed up prototype development. They are especially useful for moving from idea to implementation, wiring multiple layers together, exploring design alternatives, creating documentation, and iterating on user experience. A small team or solo developer can now build proof-of-concepts much faster than before.
+
+But the quality of the result still depends on the human direction. System design knowledge, critical thinking, and product judgment are becoming more important in the world of AI coding, not less. The developer needs to understand what should be built, how the pieces should connect, what tradeoffs matter, where security and reliability risks are, and when generated code needs to be questioned or redesigned.
+
+In that sense, AI agents are powerful builders, but system design is the map. The better the prompt, architecture, review process, and reasoning, the better the prototype becomes.
+
 ## Why An MCP Host?
 
 MCP servers expose tools, prompts, and resources. An MCP host is the application layer that connects users and AI models to those capabilities.
