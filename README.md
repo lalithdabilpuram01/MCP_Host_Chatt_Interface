@@ -24,7 +24,7 @@ This host acts as that company-controlled bridge. The model does not need hardco
 
 The main page is a chat-first MCP host interface. Users can start new sessions, continue previous chats, open runtime settings, and ask questions that may use one or more MCP tools.
 
-![MCP host main page](screenshots/MCP-host-main_page.png)
+![MCP host main page](screenshots/MCP-host-main_page1.png)
 
 ## Runtime MCP Server Configuration
 
